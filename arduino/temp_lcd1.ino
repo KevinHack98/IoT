@@ -1,8 +1,8 @@
 #include <LiquidCrystal.h>
 
-const int ledPin = 13;
-const int motorPin = 10;
-const int sensorPin = A0;
+ int ledPin = 13;
+ int motorPin = 10;
+ int sensorPin = A0;
 
 int seconds = 0;
 
